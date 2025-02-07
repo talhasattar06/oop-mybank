@@ -1,2 +1,2 @@
 # oop-mybank
-A CLI based Bank created with TypeScript, Node.js, Inquirer &amp; Chalk.
+This is a CLI based Bank App created with TypeScript, Node.js, Inquirer &amp; Chalk.
